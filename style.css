@@ -27,7 +27,8 @@ dl {
 }
 
 dd {
-  padding-bottom: 5px;
+  /*padding-bottom: 5px;*/
+  padding: 0 0 5px 10px;
 }
 
 h4 {
