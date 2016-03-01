@@ -3,7 +3,8 @@ body {
 }
 
 #header {
-
+  background-color: red;
+  color: white;
 }
 
 #content {
